@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola 👋
+
+Actualmente soy desarrolladora Frontend, me gusta crear soluciones innovadoras y creativas, siempre enfocada en aplicar las mejores practicas de Ux para garantizar que mis interfaces sean intuitivas y agradables. 
+💻🤓
 
 <!--
 **MonsDam/MonsDam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
